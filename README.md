@@ -1,4 +1,4 @@
-# Bunk Buddy
+# Bunk Bot V2
 
 A sleek and intuitive web application to help students calculate how many classes they can safely miss while maintaining the required minimum attendance percentage.
 
