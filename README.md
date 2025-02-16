@@ -12,12 +12,7 @@ A sleek and intuitive web application to help students calculate how many classe
 - Maintains minimum 75% attendance requirement
 - Clean and responsive user interface
 
-## Tech Stack
 
-- React
-- Vite
-- Tailwind CSS
-- Lucide React Icons
 
 ## Getting Started
 
@@ -49,11 +44,7 @@ npm run build
    - Your current attendance percentage
    - Number of classes you can safely skip while maintaining 75% attendance
 
-## Live Demo
 
-Visit the live application at: [Bunk Buddy](https://stately-sunflower-b8d5d9.netlify.app)
-
-## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
